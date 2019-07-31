@@ -2,6 +2,11 @@
 
 Resources useful in learning about development for native macOS apps
 
+<figure>
+	[![The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich — Robert Charles Dudley, 1855–56](./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg)](./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg)
+	<figcaption>[*The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich* — Robert Charles Dudley, 1855–56](https://www.metmuseum.org/art/collection/search/383811)</figcaption>
+</figure>
+
 ## Table of Contents
 
 - [Blogroll](#blogroll)
@@ -27,6 +32,17 @@ Sites with high quality development content, sometimes or always focusing on the
 - [User Your Loaf](https://useyourloaf.com/blog/) by Keith Harrison
 
 ## Quality Content (Organized by Topic)
+
+### Table of Contents
+
+- [Hardened Runtime](#hardened-runtime)
+- [Responder Chain](#responder-chain)
+
+### Hardened Runtime
+
+#### Documentation
+
+- [Hardened Runtime Entitlements | Apple Developer Documentation](https://developer.apple.com/documentation/security/hardened_runtime_entitlements)
 
 ### Responder Chain
 
