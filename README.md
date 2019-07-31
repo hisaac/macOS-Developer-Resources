@@ -3,8 +3,12 @@
 Resources useful in learning about development for native macOS apps
 
 <figure>
-	[![The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich — Robert Charles Dudley, 1855–56](./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg)](./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg)
-	<figcaption>[*The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich* — Robert Charles Dudley, 1855–56](https://www.metmuseum.org/art/collection/search/383811)</figcaption>
+	<a href="./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg">
+		<image src="./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg" alt="The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich — Robert Charles Dudley, 1855–56" />
+	</a>
+	<figcaption>
+		The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich — Robert Charles Dudley, 1855–56
+	</figcaption>
 </figure>
 
 ## Table of Contents
