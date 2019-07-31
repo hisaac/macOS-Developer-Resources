@@ -8,7 +8,7 @@ Resources useful in learning about development for native macOS apps
 	</a>
 	<figcaption>
 		<a href="https://www.metmuseum.org/art/collection/search/383811">
-			<small><em>The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich</em> — Robert Charles Dudley, 1855–56</small>
+			<em>The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich</em> — Robert Charles Dudley, 1855–56
 		</a>
 	</figcaption>
 </figure>
