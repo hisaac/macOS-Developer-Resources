@@ -44,6 +44,12 @@ Sites with high quality development content, sometimes or always focusing on the
 - [Hardened Runtime](#hardened-runtime)
 - [Responder Chain](#responder-chain)
 
+### Continuous Integration / Continuous Deployment
+
+#### Documentation
+
+- [Xcode Server and Continuous Integration Guide: About Continuous Integration in Xcode](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/)
+
 ### Hardened Runtime
 
 #### Documentation
