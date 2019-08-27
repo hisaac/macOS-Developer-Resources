@@ -1,7 +1,3 @@
-# macOS Developer Resources
-
-Resources useful in learning about development for native macOS apps
-
 <figure>
 	<a href="./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg">
 		<image src="./assets/the-reels-of-gutta-percha-covered-conducting-wire-conveyed-into-tanks-at-the-works-of-the-telegraph-construction-and-maintenance-company-at-greenwich.jpg" alt="The Reels of Gutta-percha Covered Conducting Wire Conveyed into Tanks at the Works of the Telegraph Construction and Maintenance Company, at Greenwich — Robert Charles Dudley, 1855–56" />
@@ -13,17 +9,25 @@ Resources useful in learning about development for native macOS apps
 	</figcaption>
 </figure>
 
+# macOS Developer Resources
+
+Resources useful in learning about development for native macOS apps
+
+## Contributing
+
+If you have content to add, or notice an error, please open a pull request or issue with your changes. I'd very much like for this to be a collaborative source of information.
+
 ## Table of Contents
 
 - [Blogroll](#blogroll)
+- [Tweeters](#tweeters)
 - [Quality Content (Organized by Topic)](#quality-content-organized-by-topic)
 - [Other Resources](#other-resources)
 - [About](#about)
-- [Contributing](#contributing)
 
 ## Blogroll
 
-Sites with high quality development content, sometimes or always focusing on the Mac.
+Sites with high quality development content, that is sometimes or always focused on the Mac:
 
 - [Bitsplitting](https://bitsplitting.org) by Daniel Jalkut
 - [chris.eidhoff.nl](http://chris.eidhof.nl) by Chris Eidhof
@@ -37,9 +41,31 @@ Sites with high quality development content, sometimes or always focusing on the
 - [Swift by Sundell](https://www.swiftbysundell.com) by John Sundell
 - [User Your Loaf](https://useyourloaf.com/blog/) by Keith Harrison
 
+## Tweeters
+
+People on Twitter who (at least sometimes) talk about macOS development:
+
+- [@_inside](https://twitter.com/_inside)
+- [@brentsimmons](https://twitter.com/brentsimmons)
+- [@chriseidhof](https://twitter.com/chriseidhof)
+- [@cocoawithlove](https://twitter.com/cocoawithlove)
+- [@danielpunkass](https://twitter.com/danielpunkass)
+- [@jnadeau](https://twitter.com/jnadeau)
+- [@johnsundell](https://twitter.com/johnsundell)
+- [@kharrison](https://twitter.com/kharrison)
+- [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+- [@lapcatsoftware](https://twitter.com/lapcatsoftware)
+- [@mattt](https://twitter.com/mattt)
+- [@mjtsai](https://twitter.com/mjtsai)
+- [@mxcl](https://twitter.com/mxcl)
+- [@olebegemann](https://twitter.com/olebegemann)
+- [@patrickwardle](https://twitter.com/patrickwardle)
+- [@twostraws](https://twitter.com/twostraws)
+- [@UINT_MIN](https://twitter.com/UINT_MIN)
+
 ## Quality Content (Organized by Topic)
 
-### Table of Contents
+### Topics
 
 - [Hardened Runtime](#hardened-runtime)
 - [Responder Chain](#responder-chain)
@@ -74,7 +100,3 @@ Sites with high quality development content, sometimes or always focusing on the
 ## About
 
 This document is maintained by me, [Isaac Halvorson](https://hisaac.net). I started this after making the jump from iOS development to macOS development, and noticing a distinct lack of good content pertaining specifically to developing for the Mac platform. After some chatter recently about this on Twitter, I figured it was high time someone started to catalog these things somewhere.
-
-## Contributing
-
-If you notice an error, or have some content to add, open a pull request or issue with your changes.
