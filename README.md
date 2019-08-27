@@ -19,11 +19,52 @@ If you have content to add, or notice an error, please open a pull request or is
 
 ## Table of Contents
 
+- [Quality Resources (Organized by Topic)](#quality-resources-organized-by-topic)
 - [Blogroll](#blogroll)
 - [Tweeters](#tweeters)
-- [Quality Content (Organized by Topic)](#quality-content-organized-by-topic)
 - [Other Resources](#other-resources)
 - [About](#about)
+
+---
+
+## Quality Resources (Organized by Topic)
+
+### Topics
+
+- [Continuous Integration / Continuous Deployment](#continuous-integration-continuous-deployment)
+- [Hardened Runtime](#hardened-runtime)
+- [Responder Chain](#responder-chain)
+
+---
+
+### Continuous Integration / Continuous Deployment
+
+#### Documentation
+
+- [Xcode Server and Continuous Integration Guide: About Continuous Integration in Xcode](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/)
+
+---
+
+### Hardened Runtime
+
+#### Documentation
+
+- [Hardened Runtime Entitlements | Apple Developer Documentation](https://developer.apple.com/documentation/security/hardened_runtime_entitlements)
+
+---
+
+### Responder Chain & Key View Loop
+
+#### Documentation
+
+- [NSResponder - AppKit | Apple Developer Documentation](https://developer.apple.com/documentation/appkit/nsresponder)
+- [Event Architecture - Cocoa Event Handling Guide | Apple Developer Documentation Archive](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/EventArchitecture/EventArchitecture.html#//apple_ref/doc/uid/10000060i-CH3-SW2)
+
+#### Articles
+
+- [Debugging the Responder Chain | mjtsai.com](https://mjtsai.com/blog/2019/07/30/debugging-the-responder-chain/)
+
+---
 
 ## Blogroll
 
@@ -63,38 +104,9 @@ People on Twitter who (at least sometimes) talk about macOS development:
 - [@twostraws](https://twitter.com/twostraws)
 - [@UINT_MIN](https://twitter.com/UINT_MIN)
 
-## Quality Content (Organized by Topic)
-
-### Topics
-
-- [Hardened Runtime](#hardened-runtime)
-- [Responder Chain](#responder-chain)
-
-### Continuous Integration / Continuous Deployment
-
-#### Documentation
-
-- [Xcode Server and Continuous Integration Guide: About Continuous Integration in Xcode](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/)
-
-### Hardened Runtime
-
-#### Documentation
-
-- [Hardened Runtime Entitlements | Apple Developer Documentation](https://developer.apple.com/documentation/security/hardened_runtime_entitlements)
-
-### Responder Chain
-
-#### Documentation
-
-- [NSResponder - AppKit | Apple Developer Documentation](https://developer.apple.com/documentation/appkit/nsresponder)
-- [Event Architecture - Cocoa Event Handling Guide | Apple Developer Documentation Archive](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/EventArchitecture/EventArchitecture.html#//apple_ref/doc/uid/10000060i-CH3-SW2)
-
-#### Articles
-
-- [Debugging the Responder Chain | mjtsai.com](https://mjtsai.com/blog/2019/07/30/debugging-the-responder-chain/)
-
 ## Other Resources
 
+- [lists.apple.com Mailing Lists](https://lists.apple.com/mailman/listinfo) - old school mailing lists, but sometimes the only source of good information
 - [Open Source Mac Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - a list of open source Mac applications on GitHub for your perusal
 
 ## About
