@@ -23,6 +23,7 @@ If you have content to add, or notice an error, please open a pull request or is
 - [Blogroll](#blogroll)
 - [Tweeters](#tweeters)
 - [Other Resources](#other-resources)
+- [Books](#books)
 - [About](#about)
 
 ---
@@ -108,6 +109,11 @@ People on Twitter who (at least sometimes) talk about macOS development:
 
 - [lists.apple.com Mailing Lists](https://lists.apple.com/mailman/listinfo) - old school mailing lists, but sometimes the only source of good information
 - [Open Source Mac Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - a list of open source Mac applications on GitHub for your perusal
+
+## Books
+
+- [Cocoa Programming for OS X](https://www.amazon.com/Cocoa-Programming-OS-Ranch-Guides/dp/0134076958) - Somewhat out of date, but filled with lots of essential Mac programming information, with examples in Swift
+
 
 ## About
 
