@@ -34,6 +34,7 @@ If you have content to add, or notice an error, please open a pull request or is
 
 - [Continuous Integration / Continuous Deployment](#continuous-integration-continuous-deployment)
 - [Hardened Runtime](#hardened-runtime)
+- [Logging](#logging)
 - [Responder Chain](#responder-chain)
 
 ---
@@ -50,16 +51,35 @@ If you have content to add, or notice an error, please open a pull request or is
 
 #### Documentation
 
-- [Hardened Runtime Entitlements | Apple Developer Documentation](https://developer.apple.com/documentation/security/hardened_runtime_entitlements)
+- [Hardened Runtime Entitlements](https://developer.apple.com/documentation/security/hardened_runtime_entitlements)
 
 ---
+
+### Logging
+
+#### Documentation
+
+- [Generating Log Messages from Your Code](https://developer.apple.com/documentation/os/logging/generating_log_messages_from_your_code)
+
+#### Tips
+
+##### Making Logs Show in Console.app Correctly
+
+In order for dynamic log messages to show up in Console.app, you must use the `{public}` modifier on the value
+
+```swift
+let variableToInsert = "hello"
+
+os_log(.debug, "message with variable: %@", variableToInsert)         // prints: "message with variable: <private>"
+os_log(.debug, "message with variable: %{public}@", variableToInsert) // prints: "message with variable: hello"
+```
 
 ### Responder Chain & Key View Loop
 
 #### Documentation
 
-- [NSResponder - AppKit | Apple Developer Documentation](https://developer.apple.com/documentation/appkit/nsresponder)
-- [Event Architecture - Cocoa Event Handling Guide | Apple Developer Documentation Archive](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/EventArchitecture/EventArchitecture.html#//apple_ref/doc/uid/10000060i-CH3-SW2)
+- [NSResponder - AppKit](https://developer.apple.com/documentation/appkit/nsresponder)
+- [Event Architecture - Cocoa Event Handling Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/EventArchitecture/EventArchitecture.html#//apple_ref/doc/uid/10000060i-CH3-SW2)
 
 #### Articles
 
