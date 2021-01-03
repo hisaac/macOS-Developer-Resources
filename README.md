@@ -21,6 +21,7 @@ If you have content to add, or notice an error, please open a pull request or is
 
 - [Quality Resources (Organized by Topic)](#quality-resources-organized-by-topic)
 - [Conferences](#conferences)
+- [Videos](#videos)
 - [Blogroll](#blogroll)
 - [Tweeters](#tweeters)
 - [Other Resources](#other-resources)
@@ -98,6 +99,13 @@ Back to the Mac conference where misfits, rebels, troublemakers, and the ones wh
 - GitHub: [@backtomac](https://github.com/backtomac)
 - YouTube: [youtube.com/channel/UCqiRMXmkXN1KDrX4WYlS5rw](https://www.youtube.com/channel/UCqiRMXmkXN1KDrX4WYlS5rw)
 - Newsletter: [tinyletter.com/backtomac](https://tinyletter.com/backtomac)
+
+---
+
+## Videos
+
+- [AppleProgramming](https://www.youtube.com/c/AppleProgramming) - by [Lucas Derraugh](https://derraugh.com)
+- [Back to the Mac](https://www.youtube.com/channel/UCqiRMXmkXN1KDrX4WYlS5rw) - Conference videos from the [Back to the Mac](https://backtomac.org) online conference
 
 ---
 
