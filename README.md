@@ -20,6 +20,7 @@ If you have content to add, or notice an error, please open a pull request or is
 ## Table of Contents
 
 - [Quality Resources (Organized by Topic)](#quality-resources-organized-by-topic)
+- [Conferences](#conferences)
 - [Blogroll](#blogroll)
 - [Tweeters](#tweeters)
 - [Other Resources](#other-resources)
@@ -84,6 +85,19 @@ os_log(.debug, "message with variable: %{public}@", variableToInsert) // prints:
 #### Articles
 
 - [Debugging the Responder Chain | mjtsai.com](https://mjtsai.com/blog/2019/07/30/debugging-the-responder-chain/)
+
+---
+
+## Conferences
+
+### Back to the Mac
+
+Back to the Mac conference where misfits, rebels, troublemakers, and the ones who think differently will share their knowledge about developing Mac apps. The conference is free. There are no registration or application fees. It is completely online as a collection of videos on our YouTube channel.
+
+- Website: [backtomac.org](https://backtomac.org)
+- GitHub: [@backtomac](https://github.com/backtomac)
+- YouTube: [youtube.com/channel/UCqiRMXmkXN1KDrX4WYlS5rw](https://www.youtube.com/channel/UCqiRMXmkXN1KDrX4WYlS5rw)
+- Newsletter: [tinyletter.com/backtomac](https://tinyletter.com/backtomac)
 
 ---
 
