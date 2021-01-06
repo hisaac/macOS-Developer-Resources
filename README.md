@@ -35,6 +35,7 @@ If you have content to add, or notice an error, please open a pull request or is
 ### Topics
 
 - [Continuous Integration / Continuous Deployment](#continuous-integration-continuous-deployment)
+- [Design](#design)
 - [Hardened Runtime](#hardened-runtime)
 - [Logging](#logging)
 - [Responder Chain & Key View Loop](#responder-chain--key-view-loop)
@@ -46,6 +47,22 @@ If you have content to add, or notice an error, please open a pull request or is
 #### Documentation
 
 - [Xcode Server and Continuous Integration Guide: About Continuous Integration in Xcode](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/)
+
+---
+
+### Design
+
+#### Menu Bar App Icons
+
+Some tweets from [Jeff Nadeau](https://twitter.com/jnadeau) about menu bar icon sizing and design:
+
+> You get 22pt of height (and wouldn’t want to extend into the margins except for fine details) so that seems fine.
+In Big Sur a symbol image is ideal. The size, weight, and baseline are chosen to be consistent across menu extras, and it works w/ the “bigger menu text” AX pref
+>
+> One technique is to design within a 22pt bounding box so you can pick the exact vertical bearing of your icon within the whitespace.
+(We did this for the original Touch Bar icons. We allow “full bleed” content there, so the icons were uniformly produced in a 30pt tall canvas.)
+>
+> — <cite>Jeff Nadeau [[tweet 1](https://twitter.com/jnadeau/status/1346714319174606849)] [[tweet 2](https://twitter.com/jnadeau/status/1346711906636087296)]</cite>
 
 ---
 
