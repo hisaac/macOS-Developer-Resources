@@ -37,7 +37,7 @@ If you have content to add, or notice an error, please open a pull request or is
 - [Continuous Integration / Continuous Deployment](#continuous-integration-continuous-deployment)
 - [Hardened Runtime](#hardened-runtime)
 - [Logging](#logging)
-- [Responder Chain](#responder-chain--key-view-loop)
+- [Responder Chain & Key View Loop](#responder-chain--key-view-loop)
 
 ---
 
