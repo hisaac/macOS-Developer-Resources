@@ -36,6 +36,7 @@ If you have content to add, or notice an error, please open a pull request or is
 
 - [Continuous Integration / Continuous Deployment](#continuous-integration-continuous-deployment)
 - [Design](#design)
+- [Code Signing](#code-signing)
 - [Hardened Runtime](#hardened-runtime)
 - [Logging](#logging)
 - [Responder Chain & Key View Loop](#responder-chain--key-view-loop)
@@ -63,6 +64,16 @@ In Big Sur a symbol image is ideal. The size, weight, and baseline are chosen to
 (We did this for the original Touch Bar icons. We allow “full bleed” content there, so the icons were uniformly produced in a 30pt tall canvas.)
 >
 > — <cite>Jeff Nadeau [[tweet 1](https://twitter.com/jnadeau/status/1346714319174606849)] [[tweet 2](https://twitter.com/jnadeau/status/1346711906636087296)]</cite>
+
+---
+
+### Code Signing
+
+Code signing is one of the most confusing and complex parts of developing for Apple platforms. Here are a few helpful guides to help make sense of the process.
+
+- [Code Signing for macOS | Lazarus wiki](https://wiki.lazarus.freepascal.org/Code_Signing_for_macOS)
+- [Notarization for macOS 10.14.5+](https://wiki.lazarus.freepascal.org/Notarization_for_macOS_10.14.5%2B)
+- [Apple Developer Certificates](https://wiki.lazarus.freepascal.org/Apple_Developer_Certificates) - A great reference of all the different types of certificates involved in developing for Apple platforms.
 
 ---
 
