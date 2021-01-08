@@ -53,6 +53,10 @@ If you have content to add, or notice an error, please open a pull request or is
 
 ### Design
 
+#### Human Interface Guidelines
+
+[macOS - Human Interface Guidelines (HIG)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
+
 #### Menu Bar App Icons
 
 Some tweets from [Jeff Nadeau](https://twitter.com/jnadeau) about menu bar icon sizing and design:
