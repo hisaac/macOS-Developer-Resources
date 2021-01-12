@@ -161,6 +161,7 @@ People on Twitter who (at least sometimes) tweet about macOS development:
 - [@mxcl](https://twitter.com/mxcl)
 - [@olebegemann](https://twitter.com/olebegemann)
 - [@patrickwardle](https://twitter.com/patrickwardle)
+- [@rydermackay](https://twitter.com/rydermackay)
 - [@sindresorhus](https://twitter.com/sindresorhus)
 - [@twostraws](https://twitter.com/twostraws)
 - [@UINT_MIN](https://twitter.com/UINT_MIN)
