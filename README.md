@@ -40,6 +40,7 @@ If you have content to add, or notice an error, please open a pull request or is
 
 - [macOS - Human Interface Guidelines (HIG)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) by [Sindre Sorhus](https://sindresorhus.com)
+- [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
 
 #### Menu Bar Icons
 
