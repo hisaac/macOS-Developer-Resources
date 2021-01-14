@@ -139,6 +139,7 @@ Sites with high quality development content, that is sometimes or always focused
 - [oleb.net](https://oleb.net/blog/) by Ole Begemann
 - [Rambo.codes](https://rambo.codes) by Gui Rambo
 - [Swift by Sundell](https://www.swiftbysundell.com) by John Sundell
+- [tyler.io](https://tyler.io) by Tyler Hall
 - [User Your Loaf](https://useyourloaf.com/blog/) by Keith Harrison
 
 ## Tweeters
