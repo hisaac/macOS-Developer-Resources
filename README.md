@@ -40,6 +40,7 @@ If you have content to add, or notice an error, please open a pull request or is
 
 - [macOS - Human Interface Guidelines (HIG)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) by [Sindre Sorhus](https://sindresorhus.com)
+- [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
 
 #### Menu Bar Icons
 
@@ -160,6 +161,7 @@ People on Twitter who (at least sometimes) tweet about macOS development:
 - [@mxcl](https://twitter.com/mxcl)
 - [@olebegemann](https://twitter.com/olebegemann)
 - [@patrickwardle](https://twitter.com/patrickwardle)
+- [@rydermackay](https://twitter.com/rydermackay)
 - [@sindresorhus](https://twitter.com/sindresorhus)
 - [@twostraws](https://twitter.com/twostraws)
 - [@UINT_MIN](https://twitter.com/UINT_MIN)
