@@ -100,6 +100,7 @@ os_log(.debug, "message with variable: %{public}@", variableToInsert) // prints:
 ## Books
 
 - [Cocoa Programming for OS X](https://www.amazon.com/Cocoa-Programming-OS-Ranch-Guides/dp/0134076958) - Somewhat out of date, but filled with lots of essential Mac programming information, with examples in Swift
+- [Hacking With macOS](https://www.hackingwithswift.com/store/hacking-with-macos) - From Paul Hudson. Up to date with SwiftUI and his books recieve lifetime updates.
 
 ---
 
