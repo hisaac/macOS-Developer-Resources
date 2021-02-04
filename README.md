@@ -39,6 +39,7 @@ If you have content to add, or notice an error, please open a pull request or is
 ### Design
 
 - [macOS - Human Interface Guidelines (HIG)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) by [Sindre Sorhus](https://sindresorhus.com)
 - [Design and implement macOS document icons](https://developer.apple.com/news/?id=5i6jlf4d)
 
@@ -140,8 +141,18 @@ Sites with high quality development content, that is sometimes or always focused
 - [oleb.net](https://oleb.net/blog/) by Ole Begemann
 - [Rambo.codes](https://rambo.codes) by Gui Rambo
 - [Swift by Sundell](https://www.swiftbysundell.com) by John Sundell
+- [TrozWare](https://troz.net) by Sarah Reichelt
 - [tyler.io](https://tyler.io) by Tyler Hall
 - [User Your Loaf](https://useyourloaf.com/blog/) by Keith Harrison
+
+## Chat Servers
+
+Online communities that are focues on macOS app development:
+
+- [AppKit Abusers](https://appkit-abusers.herokuapp.com)
+- [MacMakers.chat](https://macmakers.chat/invite-requests)
+- [Core Intuition Slack](http://chat.coreint.org)
+- [CocoaHeads Discord](https://discord.gg/Sq7PMyDRkJ)
 
 ## Tweeters
 
