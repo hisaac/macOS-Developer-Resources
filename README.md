@@ -21,6 +21,7 @@ If you have content to add, or notice an error, please open a pull request or is
 - [Videos](#videos)
 - [Conferences](#conferences)
 - [Blogroll](#blogroll)
+- [Chat Servers](#chat-servers)
 - [Tweeters](#tweeters)
 - [Other Resources](#other-resources)
 - [About](#about)
