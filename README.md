@@ -149,7 +149,7 @@ Sites with high quality development content, that is sometimes or always focused
 
 Online communities that are focues on macOS app development:
 
-- [AppKit Abusers](https://appkit-abusers.herokuapp.com)
+- [AppKit Abusers (Slack)](https://appkit-abusers.herokuapp.com)
 - [MacMakers.chat](https://macmakers.chat/invite-requests)
 - [Core Intuition Slack](http://chat.coreint.org)
 - [CocoaHeads Discord](https://discord.gg/Sq7PMyDRkJ)
