@@ -147,7 +147,7 @@ Sites with high quality development content, that is sometimes or always focused
 
 ## Chat Servers
 
-Online communities that are focues on macOS app development:
+Online communities that are focused on macOS app development:
 
 - [AppKit Abusers (Slack)](https://appkit-abusers.herokuapp.com)
 - [MacMakers.chat (Slack)](https://macmakers.chat/)
