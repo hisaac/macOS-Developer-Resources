@@ -151,7 +151,7 @@ Online communities that are focused on macOS app development:
 
 - [AppKit Abusers (Slack)](https://appkit-abusers.herokuapp.com)
 - [MacMakers.chat (Slack)](https://macmakers.chat/)
-- [Core Intuition Slack](http://chat.coreint.org)
+- [Core Intuition (Slack)](http://chat.coreint.org)
 - [CocoaHeads (Discord)](https://discord.gg/Sq7PMyDRkJ)
 
 ## Tweeters
