@@ -159,7 +159,7 @@ Online communities that are focused on macOS app development:
 
 People on Twitter who (at least sometimes) tweet about macOS development:
 
-- [@_inside](https://twitter.com/_inside)
+- [@\_inside](https://twitter.com/_inside)
 - [@brentsimmons](https://twitter.com/brentsimmons)
 - [@chriseidhof](https://twitter.com/chriseidhof)
 - [@cocoawithlove](https://twitter.com/cocoawithlove)
@@ -184,6 +184,7 @@ People on Twitter who (at least sometimes) tweet about macOS development:
 
 - [lists.apple.com Mailing Lists](https://lists.apple.com/mailman/listinfo) - old school mailing lists, but sometimes the only source of good information
 - [Open Source Mac Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - a list of open source Mac applications on GitHub for your perusal
+- [TIL | macOS](https://jessesquires.github.io/TIL/macos/) by [Jesse Squires](https://www.jessesquires.com) - Another great list of macOS development resources
 
 ## About
 
