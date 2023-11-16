@@ -150,7 +150,7 @@ Sites with high quality development content, that is sometimes or always focused
 
 Online communities that are focused on macOS app development:
 
-- [AppKit Abusers (Slack)](https://join.slack.com/t/appkit-abusers/shared_invite/zt-1n1q2c9px-kxI12f~1omQZDSyhO3Jr0Q)
+- [AppKit Abusers (Slack)](https://join.slack.com/t/appkit-abusers/shared_invite/zt-1q2i2n9t0-MgwJEmyl6LS17udv7s9V1w)
 - [Core Intuition (Slack)](http://chat.coreint.org)
 
 ## Tweeters
